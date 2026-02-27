@@ -34,8 +34,15 @@ These results highlight a high concentration of risk within a small subset of tr
 ## Risk Concentration Analysis
 The system identifies high-risk orders by ranking absolute reconciliation variances and quantifying exposure concentration to support targeted investigation and control design.
 
+## Business Impact
+
+- Quantified **$19.8K in unreconciled financial exposure**, enabling targeted investigation and remediation.
+- Identified **high concentration risk** with over 90% of exposure driven by a small subset of transactions.
+- Highlighted dominant reconciliation failure modes to inform **control improvements and audit readiness**.
+- Designed a reusable **financial control monitoring framework** applicable to ongoing reconciliation workflows.
+
 ## Visual Outputs
-The following visualization summarizes reconciliation health, exposure concentration, and risk drivers identified through the analysis. 
+The following visualizations summarize reconciliation health, exposure concentration, and risk drivers identified through the analysis. 
 ### Financial Exposure by Reconciliation Status
 ![Financial Exposure by Reconciliation Status](assets/exposure_by_status.jpg)
 
