@@ -35,7 +35,12 @@ These results highlight a high concentration of risk within a small subset of tr
 The system identifies high-risk orders by ranking absolute reconciliation variances and quantifying exposure concentration to support targeted investigation and control design.
 
 ## Visual Outputs
-*(Screenshots will be here to illustrate KPI summaries and exposure distributions)*
+### Financial Exposure by Reconciliation Status
+![Financial Exposure by Reconciliation Status](assets/exposure_by_status.jpg)
+
+### Top 10 States by Financial Exposure
+![Top 10 States by Financial Exposure](assets/top_states_exposure.jpg)
+
 
 ## Tech Stack
 - Python
