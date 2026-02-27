@@ -1,4 +1,4 @@
-# Finance_Reconciliation & Control Monitoring Analytics
+# Finance Reconciliation & Control Monitoring System
 
 ## Overview
 This project simulates a financial control environment where transaction-level sales data is reconciled against ledger records to identify discrepancies, quantify unreconciled exposure, and assess concentration risk. The system is designed to mirror internal finance and audit analytics used to monitor reconciliation health, detect risk drivers, and support data-driven control decisions.
@@ -35,6 +35,7 @@ These results highlight a high concentration of risk within a small subset of tr
 The system identifies high-risk orders by ranking absolute reconciliation variances and quantifying exposure concentration to support targeted investigation and control design.
 
 ## Visual Outputs
+The following visualization summarizes reconciliation health, exposure concentration, and risk drivers identified through the analysis. 
 ### Financial Exposure by Reconciliation Status
 ![Financial Exposure by Reconciliation Status](assets/exposure_by_status.jpg)
 
